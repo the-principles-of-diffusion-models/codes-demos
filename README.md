@@ -14,6 +14,7 @@ The goal of this repository is to provide **clean, educational, and easy-to-foll
 
 - **Book project page:** https://the-principles-of-diffusion-models.github.io/
 - **arXiv:** https://arxiv.org/abs/2510.21890
+- **Blog:** https://the-principles-of-diffusion-models.github.io/#/blog (featuring interactive widgets and walkthroughs)
 
 ## About This Repository
 
