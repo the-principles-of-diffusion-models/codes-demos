@@ -48,3 +48,14 @@ If you find this repository or the book helpful, please consider citing the book
   journal={arXiv preprint arXiv:2510.21890},
   year={2025}
 }
+
+## Questions or Feedback
+
+If you have any questions, suggestions, or feedback, please feel free to reach out.
+
+- You may leave a comment using the feedback function on the project page:  
+  https://the-principles-of-diffusion-models.github.io/#/
+- You may also contact the authors directly by email. For example, you can reach  
+  **Chieh-Hsin (Jesse) Lai** at **chiehhsinlai@gmail.com**.
+
+We would be very happy to hear your thoughts and feedback.
