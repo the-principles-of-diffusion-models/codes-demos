@@ -44,11 +44,9 @@ It is not necessarily optimized for large-scale production training or benchmark
 If you find this repository or the book helpful, please consider citing the book:
 
 ```bibtex
-@article{lai2025principlesdiffusionmodels,
-  title   = {The Principles of Diffusion Models},
-  author  = {Lai, Chieh-Hsin and Song, Yang and Kim, Dongjun and Mitsufuji, Yuki and Ermon, Stefano},
-  year    = {2025},
-  eprint  = {2510.21890},
-  archivePrefix = {arXiv},
-  primaryClass = {cs.LG}
+@article{lai2025principles,
+  title={The principles of diffusion models},
+  author={Lai, Chieh-Hsin and Song, Yang and Kim, Dongjun and Mitsufuji, Yuki and Ermon, Stefano},
+  journal={arXiv preprint arXiv:2510.21890},
+  year={2025}
 }
