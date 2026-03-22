@@ -48,6 +48,8 @@ If you find this repository or the book helpful, please consider citing the book
   journal={arXiv preprint arXiv:2510.21890},
   year={2025}
 }
+```
+
 
 ## Questions or Feedback
 
