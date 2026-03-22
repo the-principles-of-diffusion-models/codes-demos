@@ -20,7 +20,7 @@ The goal of this repository is to provide **clean, educational, and easy-to-foll
 
 This repository is intended as a companion resource for the book. It focuses on:
 
-- minimal implementations of core diffusion modeling concepts,
+- minimal implementations of core diffusion modeling concepts, ranging from basic diffusion models to fast sampling, controllable generation, and few-step generators
 - tutorial-style code for learning and experimentation,
 - pedagogical examples that emphasize clarity over engineering complexity.
 
