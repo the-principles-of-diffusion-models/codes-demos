@@ -1,6 +1,6 @@
 # The Principles of Diffusion Models — Minimal Implementations and Tutorials
 
-This repository hosts the **minimal implementations** and **tutorial codebase** for the book  
+This repository officially hosts the **minimal implementations** and **tutorial codebase** for the book  
 **_The Principles of Diffusion Models_** by
 
 - [Chieh-Hsin Lai](https://chiehhsinjesselai.github.io/)
