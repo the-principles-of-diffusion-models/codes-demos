@@ -34,8 +34,6 @@ This repository may be useful for:
 - researchers who want concise reference implementations,
 - practitioners looking for simple tutorial code to understand core ideas.
 
-## Scope
-
 The code in this repository is primarily designed for **education and illustration**.  
 It is not necessarily optimized for large-scale production training or benchmarking.
 
